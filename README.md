@@ -1,7 +1,8 @@
 # Predicting Cyber Attack Initiator Type from Global Incidents.
 
 ## Team
- Ahuura Faustine ( Dataset selection, understanding and cleaning), Mozan Ahmed Adam (EDA and Visualization), Atim Sharon Chloe (Modeling and Evaluation),*Every member contributed to discussions, documentation, and presentation*
+ Ahuura Faustine ( Dataset selection, understanding and cleaning), Mozan Ahmed Adam (EDA and Visualization), Atim Sharon Chloe (Modeling and Evaluation),
+ *Every member contributed to discussions, documentation, and presentation*
 
 ## Overview
 This project aims to develop a Machine Learning classification model that predicts the type of cyber attack initiator (for example, nation-state, hacktivist, organized crime group, or individual actor) based on information from recorded global cyber incidents.
@@ -29,7 +30,7 @@ Each row represents a single recorded cyber incident and includes attributes abo
 
 ## Files in this repo
 - `data/` — raw and processed dataset
-- `cyber_incidents_ml_project.ipynb
+- `Predicting_Cyber_Attack_Initiator_Type_from_Global_Cyber_Incidents .ipynb
 
 ## Reproduce results
 1. Run EDA notebook, Train model, Evaluate: `Predicting_Cyber_Attack_Initiator_Type_from_Global_Cyber_Incidents .ipynb`
@@ -40,12 +41,11 @@ Each row represents a single recorded cyber incident and includes attributes abo
 - Conclusion: Random Forest is the preferred model for this dataset due to its higher overall accuracy and balanced performance.
 
 ## Technologies Used
-Python (Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn)
-Colab Notebook
+Python (Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn),
+Colab Notebook,
 GitHub for version control and collaboration
 
-## Contact
-Team lead email or GitHub usernames
+
 
 
 
