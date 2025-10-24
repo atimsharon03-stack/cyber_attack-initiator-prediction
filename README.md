@@ -20,10 +20,10 @@ Each row represents a single recorded cyber incident and includes attributes abo
 
 | Category               | Example Columns                                                     | Description                                                        |
 | ---------------------- | ------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| Incident Metadata      | incident_id, year, month, region                      | Unique identifiers and time/location details of each attack               |
-| Attacker Information   | initiator_category, initiator_country, initiator_sector | Who launched the attack (nation-state, hacktivist, organized crime, etc.) |
-| Target Information     | receiver_category, receiver_country, receiver_sector    | Who was targeted (government, business, education, etc.)                  |
-| Attack Characteristics | method, impact_level, duration_days, num_victims      | How the attack was carried out and its consequences                       |
+| Incident metadata      | incident_id, year, month, region                      | Unique identifiers and time/location details of each attack               |
+| Attacker information   | initiator_category, initiator_country, initiator_sector | Who launched the attack (nation-state, hacktivist, organized crime, etc.) |
+| Target information     | receiver_category, receiver_country, receiver_sector    | Who was targeted (government, business, education, etc.)                  |
+| Attack characteristics | method, impact_level, duration_days, num_victims      | How the attack was carried out and its consequences                       |
 | Outcomes               | response_type, cost_estimate, data_leak                 | The results or estimated impact of the attack                             |
 
 
