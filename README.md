@@ -24,12 +24,12 @@ Each row represents a single recorded cyber incident and includes attributes abo
 | Attacker Information   | `initiator_category`, `initiator_country`, `initiator_sector` | Who launched the attack (nation-state, hacktivist, organized crime, etc.) |
 | Target Information     | `receiver_category`, `receiver_country`, `receiver_sector`    | Who was targeted (government, business, education, etc.)                  |
 | Attack Characteristics | `method`, `impact_level`, `duration_days`, `num_victims`      | How the attack was carried out and its consequences                       |
-| Outcomes               | `response_type`, `cost_estimate`, `data_leak`                 | The results or estimated impact of the attack                             |
+| Outcomes               | `response_type`, `cost_estimate`, `data_leak                 | The results or estimated impact of the attack                             |
 
 
 
 ## Files in this repo
-- data — raw and processed dataset
+- EuRepoC_Global_Database_1.2 .csv
 - Predicting_Cyber_Attack_Initiator_Type_from_Global_Cyber_Incidents .ipynb
 
 ## Reproduce results
