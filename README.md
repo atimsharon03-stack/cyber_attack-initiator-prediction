@@ -36,7 +36,7 @@ Each row represents a single recorded cyber incident and includes attributes abo
 1. Run EDA notebook, Train model, Evaluate: `Predicting_Cyber_Attack_Initiator_Type_from_Global_Cyber_Incidents .ipynb`
 
 ## Results summary
-- Best model: RandomForest (example)
+- Best model: RandomForest 
 - Key metric: Accuracy = 87%, F1 = 62.2%
 - Conclusion: Random Forest is the preferred model for this dataset due to its higher overall accuracy and balanced performance.
 
