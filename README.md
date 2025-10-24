@@ -33,7 +33,7 @@ Each row represents a single recorded cyber incident and includes attributes abo
 - Predicting_Cyber_Attack_Initiator_Type_from_Global_Cyber_Incidents .ipynb
 
 ## Reproduce results
-1. Run EDA notebook, Train model, Evaluate: `Predicting_Cyber_Attack_Initiator_Type_from_Global_Cyber_Incidents .ipynb`
+1. Run EDA notebook, Train model, Evaluate: Predicting_Cyber_Attack_Initiator_Type_from_Global_Cyber_Incidents .ipynb
 
 ## Results summary
 - Best model: RandomForest 
