@@ -1,4 +1,4 @@
-# Predicting Cyber Attack Initiator Type from Global Incidents.
+# Predicting Cyber Attack Initiator.
 
 ## Team
  Ahuura Faustine ( Dataset selection, understanding and cleaning), Mozan Ahmed Adam (EDA and Visualization), Atim Sharon Chloe (Modeling and Evaluation),
@@ -36,9 +36,9 @@ Each row represents a single recorded cyber incident and includes attributes abo
 1. Run EDA notebook, Train model, Evaluate: Predicting_Cyber_Attack_Initiator_Type_from_Global_Cyber_Incidents .ipynb
 
 ## Results summary
-- Best model: RandomForest 
-- Key metric: Accuracy = 87%, F1 = 62.2%
-- Conclusion: Random Forest is the preferred model for this dataset due to its higher overall accuracy and balanced performance.
+- Best model: Neural Network
+- Key metric: Accuracy = 94.3%, F1 = 94.2%
+- Conclusion: The Neural Network is the preferred model  because it makes fewer mistakes and it's the most accurate and balanced performer.
 
 ## Technologies Used
 Python (Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn),
